@@ -1,0 +1,8 @@
+PyPDF2
+python-dotenv
+flask
+flask-cors
+flask-socketio
+werkzeug
+google-adk
+google-generativeai
